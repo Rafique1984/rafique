@@ -1,0 +1,14 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="CarGuro Atumation Test" verbose ="2">
+
+	<test name="CarGuro Regression Test">
+	
+		<packages>
+		
+			<package name="tests"></package>
+		
+		</packages>
+
+	</test>
+
+</suite>
